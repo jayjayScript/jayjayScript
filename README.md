@@ -29,12 +29,12 @@ I'm a **Front-End Developer** passionate about **building modern, responsive web
 
 ## 📈 GitHub Stats  
 
-<div flex>  
+<div >  
 ![Princewill Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjayScript&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayScript&layout=compact&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayjayScript&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayScript&layout=compact&theme=radical&hide_border=true)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayjayScript&theme=radical)  
 </div>  
 
 ---
