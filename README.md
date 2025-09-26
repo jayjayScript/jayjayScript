@@ -29,7 +29,7 @@ I'm a **Front-End Developer** passionate about **building modern, responsive web
 
 ## 📈 GitHub Stats  
 
-<div align="center">  
+<div flex>  
 ![Princewill Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjayScript&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayScript&layout=compact&theme=radical&hide_border=true)  
@@ -83,4 +83,8 @@ I'm a **Front-End Developer** passionate about **building modern, responsive web
 ---
 
 ## 🌐 Visitor Counter  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayjayScript.jayjayScript)  ⭐️ From [jayjayScript](https://github.com/jayjayScript)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayjayScript.jayjayScript)  
+
+---
+
+⭐️ From [jayjayScript](https://github.com/jayjayScript)
