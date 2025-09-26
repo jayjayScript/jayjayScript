@@ -83,8 +83,4 @@ I'm a **Front-End Developer** passionate about **building modern, responsive web
 ---
 
 ## 🌐 Visitor Counter  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayjayScript.jayjayScript)  
-
----
-
-⭐️ From [jayjayScript](https://github.com/jayjayScript)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayjayScript.jayjayScript)  ⭐️ From [jayjayScript](https://github.com/jayjayScript)
